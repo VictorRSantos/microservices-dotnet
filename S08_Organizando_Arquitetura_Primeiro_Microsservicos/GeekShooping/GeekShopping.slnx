@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/FrontEnd/">
+    <Project Path="GeekShooping.Web/GeekShopping.Web.csproj" Id="b992fe66-650b-453a-af22-10b789f7a2f1" />
+  </Folder>
+  <Folder Name="/Services/">
+    <Project Path="GeekShopping.ProductAPI/GeekShopping.ProductAPI.csproj" Id="7ae1ea94-a306-424e-8fd0-ca406d95c308" />
+  </Folder>
+</Solution>
